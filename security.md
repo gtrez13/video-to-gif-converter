@@ -60,3 +60,5 @@ The green button in the Quick Start section.
 ---
 
 *video-to-gif-converter · Updated 2026-10-16 · Shared under the MIT License*
+
+<!-- rev 2026-10-16 -->
